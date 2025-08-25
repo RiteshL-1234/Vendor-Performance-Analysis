@@ -7,7 +7,7 @@ This project focuses on analyzing vendor performance in the retail and wholesale
 
 
 
-<img width="1437" height="885" alt="Project Pipeline" src="https://github.com/user-attachments/assets/1be9ef0e-108c-4033-81ca-eb7d726dd26e" />
+<img width="1200" height="600" alt="Project Pipeline" src="https://github.com/user-attachments/assets/1be9ef0e-108c-4033-81ca-eb7d726dd26e" />
 
 
 
